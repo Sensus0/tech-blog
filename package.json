@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "bcrypt": "^5.0.1",
     "dotenv": "^16.0.0",
     "express-handlebars": "^6.0.5",
     "express.js": "^1.0.0",
